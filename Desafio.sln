@@ -5,17 +5,17 @@ VisualStudioVersion = 17.11.35222.181
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Questao3", "Questao3", "{BE116E7D-8C41-46EB-BE91-71BFA0D66C72}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Questao.3", "Questao.3\Questao.3.csproj", "{7ADFFD2B-23BC-4DCA-BB36-32467C008F3F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Questao.3", "src\Questao.3\Questao.3.csproj", "{7ADFFD2B-23BC-4DCA-BB36-32467C008F3F}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Questao4", "Questao4", "{997C67EA-B614-45BB-A034-22488A3664A2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Soma.Api", "Soma\Soma.Api.csproj", "{E74B5785-A27E-4EC4-8935-F02AAE4F2DEE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Soma.Api", "src\Soma\Soma.Api.csproj", "{E74B5785-A27E-4EC4-8935-F02AAE4F2DEE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Soma.Contracts", "Soma.Contracts\Soma.Contracts.csproj", "{525A24D0-B037-476D-A800-637770C9478E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Soma.Contracts", "src\Soma.Contracts\Soma.Contracts.csproj", "{525A24D0-B037-476D-A800-637770C9478E}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Questao5", "Questao5", "{F06C3128-23A3-42C6-A77C-ADD05D76E45A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tarefas", "Tarefas\Tarefas.csproj", "{0F90DB51-0222-49FD-BEF4-88CC33108C38}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tarefas", "src\Tarefas\Tarefas.csproj", "{0F90DB51-0222-49FD-BEF4-88CC33108C38}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
