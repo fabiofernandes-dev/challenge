@@ -29,7 +29,6 @@ class Program
         });
 
         var tarefas = new List<Task>();
-
         foreach (var tarefa in tarefasJson)
         {
             tarefas.Add(ProcessarTarefaAsync(tarefa));
@@ -37,6 +36,7 @@ class Program
         
         await Task.WhenAll(tarefas);
         Console.WriteLine("Todas as tarefas foram concluídas.");
+        Console.ReadKey();
     }
 
     static async Task ProcessarTarefaAsync(Tarefa tarefa)
