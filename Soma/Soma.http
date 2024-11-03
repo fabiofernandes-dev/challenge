@@ -1,0 +1,6 @@
+@Soma_HostAddress = http://localhost:5128
+
+GET {{Soma_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,79 @@
+[
+  {
+    "descricao": "Madeira",
+    "valorVenda": 350.00,
+    "valorCompra": 200.00,
+    "tipo": 4,
+    "dataCriacao": "2024-05-01T23:50:00"
+  },
+  {
+    "descricao": "Cadeira",
+    "valorVenda": 200.00,
+    "valorCompra": 150.00,
+    "tipo": 1,
+    "dataCriacao": "2024-05-01T23:50:00"
+  },
+  {
+    "descricao": "Escada",
+    "valorVenda": 600.00,
+    "valorCompra": 400.00,
+    "tipo": 1,
+    "dataCriacao": "2024-07-01T23:50:00"
+  },
+  {
+    "descricao": "Café",
+    "valorVenda": 21.00,
+    "valorCompra": 20.00,
+    "tipo": 3,
+    "dataCriacao": "2024-05-01T23:50:00"
+  },
+  {
+    "descricao": "Cenário 1",
+    "valorVenda": 10.00,
+    "valorCompra": 10.00,
+    "tipo": 3,
+    "dataCriacao": "2024-05-01T23:50:00"
+  },
+  {
+    "descricao": "Cenário 1 v2",
+    "valorVenda": 9.00,
+    "valorCompra": 10.00,
+    "tipo": 3,
+    "dataCriacao": "2024-05-01T23:50:00"
+  },
+  {
+    "descricao": "Cenário 2",
+    "valorVenda": 15.00,
+    "valorCompra": 10.00,
+    "tipo": 3,
+    "dataCriacao": "2023-12-31T23:50:00"
+  },
+  {
+    "descricao": "333",
+    "valorVenda": 20.00,
+    "valorCompra": 10.00,
+    "tipo": 3,
+    "dataCriacao": "2024-09-30T23:50:00"
+  },
+  {
+    "descricao": "Cenário 4",
+    "valorVenda": -90.00,
+    "valorCompra": 0.00,
+    "tipo": 3,
+    "dataCriacao": "2024-09-30T23:50:00"
+  },
+  {
+    "descricao": "Mesa",
+    "valorVenda": 350.00,
+    "valorCompra": 200.00,
+    "tipo": 4,
+    "dataCriacao": "2024-05-01T23:50:00"
+  },
+  {
+    "descricao": "Mesa Vidro",
+    "valorVenda": 900.00,
+    "valorCompra": 200.00,
+    "tipo": 3,
+    "dataCriacao": "2024-04-07T23:50:00"
+  }
+]
